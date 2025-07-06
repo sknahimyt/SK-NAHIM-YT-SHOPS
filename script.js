@@ -1,0 +1,1 @@
+// Add animation or analytics later if needed
